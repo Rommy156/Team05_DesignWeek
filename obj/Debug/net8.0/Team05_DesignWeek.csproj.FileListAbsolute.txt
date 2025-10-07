@@ -1,0 +1,15 @@
+C:\Users\romil\source\repos\Team05_DesignWeek\Team05_DesignWeek\bin\Debug\net8.0\Team05_DesignWeek.exe
+C:\Users\romil\source\repos\Team05_DesignWeek\Team05_DesignWeek\bin\Debug\net8.0\Team05_DesignWeek.deps.json
+C:\Users\romil\source\repos\Team05_DesignWeek\Team05_DesignWeek\bin\Debug\net8.0\Team05_DesignWeek.runtimeconfig.json
+C:\Users\romil\source\repos\Team05_DesignWeek\Team05_DesignWeek\bin\Debug\net8.0\Team05_DesignWeek.dll
+C:\Users\romil\source\repos\Team05_DesignWeek\Team05_DesignWeek\bin\Debug\net8.0\Team05_DesignWeek.pdb
+C:\Users\romil\source\repos\Team05_DesignWeek\Team05_DesignWeek\obj\Debug\net8.0\Team05_DesignWeek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\romil\source\repos\Team05_DesignWeek\Team05_DesignWeek\obj\Debug\net8.0\Team05_DesignWeek.AssemblyInfoInputs.cache
+C:\Users\romil\source\repos\Team05_DesignWeek\Team05_DesignWeek\obj\Debug\net8.0\Team05_DesignWeek.AssemblyInfo.cs
+C:\Users\romil\source\repos\Team05_DesignWeek\Team05_DesignWeek\obj\Debug\net8.0\Team05_DesignWeek.csproj.CoreCompileInputs.cache
+C:\Users\romil\source\repos\Team05_DesignWeek\Team05_DesignWeek\obj\Debug\net8.0\Team05_DesignWeek.sourcelink.json
+C:\Users\romil\source\repos\Team05_DesignWeek\Team05_DesignWeek\obj\Debug\net8.0\Team05_DesignWeek.dll
+C:\Users\romil\source\repos\Team05_DesignWeek\Team05_DesignWeek\obj\Debug\net8.0\refint\Team05_DesignWeek.dll
+C:\Users\romil\source\repos\Team05_DesignWeek\Team05_DesignWeek\obj\Debug\net8.0\Team05_DesignWeek.pdb
+C:\Users\romil\source\repos\Team05_DesignWeek\Team05_DesignWeek\obj\Debug\net8.0\Team05_DesignWeek.genruntimeconfig.cache
+C:\Users\romil\source\repos\Team05_DesignWeek\Team05_DesignWeek\obj\Debug\net8.0\ref\Team05_DesignWeek.dll
