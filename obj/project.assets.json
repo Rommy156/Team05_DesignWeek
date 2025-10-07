@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\romil\\source\\repos\\Team05_DesignWeek\\Team05_DesignWeek.csproj",
+      "projectUniqueName": "C:\\Users\\romil\\source\\repos\\Team05_DesignWeek\\Team05_DesignWeek\\Team05_DesignWeek.csproj",
       "projectName": "Team05_DesignWeek",
-      "projectPath": "C:\\Users\\romil\\source\\repos\\Team05_DesignWeek\\Team05_DesignWeek.csproj",
+      "projectPath": "C:\\Users\\romil\\source\\repos\\Team05_DesignWeek\\Team05_DesignWeek\\Team05_DesignWeek.csproj",
       "packagesPath": "C:\\Users\\romil\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\romil\\source\\repos\\Team05_DesignWeek\\obj\\",
+      "outputPath": "C:\\Users\\romil\\source\\repos\\Team05_DesignWeek\\Team05_DesignWeek\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
